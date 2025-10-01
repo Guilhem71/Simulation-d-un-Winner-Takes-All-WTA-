@@ -1,1 +1,1 @@
-# Simulation-d-un-Winner-Takes-All-WTA-
+# Simulation d'un Winner Takes All (WTA)
